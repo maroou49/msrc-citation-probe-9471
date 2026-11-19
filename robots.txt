@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maroou49.github.io/msrc-citation-probe-9471/sitemap.xml
